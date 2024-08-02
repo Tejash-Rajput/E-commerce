@@ -14,7 +14,7 @@ app.use(cors());
 
 // Database connection with mongodb
 mongoose.connect(
-  "mongodb+srv://tryid86army:EQZNAybpPmU49xns@cluster0.gbulnp8.mongodb.net/e-commerce"
+  "your api key"
 );
 
 // API creation
